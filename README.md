@@ -25,7 +25,5 @@ Maruti_Suzuki_Financial_Model.xlsx — contains full model with formulas, ratios
 ---
 
 *Created by:* Aryan Prasad  
-Bachelor of Commerce, Pillai College of Arts, Science & Commerce (Navi Mumbai)
-[aryan.co1122@gmail.com]
 Bachelor of Commerce, Pillai College of Arts, Science & Commerce (Navi Mumbai)  
-📧 aryann.7921@gmail.com
+📧 aryan.co1122@gmail.com
